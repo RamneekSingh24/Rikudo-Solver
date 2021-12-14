@@ -1,12 +1,10 @@
 Written in gnu-prolog
 
-If interpreter doesn't load the file, please change name of file and load.
 
-For q2 Co-ordinates used are-
+
+Co-ordinates used are-
 
 ![](img/2021-11-11-03-40-32.png)
-
-Please restart prolog interpreter after running once.
 
 Query Format: solve(board-size, [links], [pre-filled])
 
