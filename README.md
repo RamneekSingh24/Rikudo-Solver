@@ -1,3 +1,5 @@
+# Rikudo solver
+
 Written in gnu-prolog
 
 
